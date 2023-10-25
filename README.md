@@ -21,6 +21,8 @@ Hello and welcome to my GitHub! My name is Mustafa Bayram GÜCEN, I am an Softwa
 | Power BI data visualizations 2022-2023 continue with responsibilities
 | R data statistics algorithms codes and running of these codes 2016-2020
 | SPSS some master and phd thesis statistics results 2013-2017
+| Adobe Photoshop Photography, Editing and Premiere Videography, rendering you can use your conferences my editing photo and video with timer(https://www.youtube.com/watch?v=5wLUCLIj5LI) 15 minute timer Coffee break :) (Thank you for your attention)
+
 
 - 🔭 I’m currently working on YTÜ
 - 🌱 I’m currently learning GAN alghorithms
