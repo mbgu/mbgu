@@ -1,4 +1,4 @@
-$${\color{red}Hello \space \color{lightblue}and \space \color{orange}Welcome \space \color{lightblue}to \space \color{white}My \space \color{lightmagenta}Github!👋}$$
+$${\color{red}Hello \space \color{lightblue}and \space \color{orange}Welcome \space \color{lightblue}to \space \color{lightred}My \space \color{lightred}Github!👋}$$
 
 My name is Mustafa Bayram GÜCEN, I am an Software Developer with a strong knowledge of building high-performance and user-friendly solutions. I also have experience in developing Web and Windows-desktop solutions. In terms of preferences, I have a passion for developing solutions focused on health prediction systems, sustainability, natural energy solutions, renewable energy and IoT. I also enjoy creating videos and user-friendly applications for the educational industry.
 
