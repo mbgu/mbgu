@@ -7,7 +7,7 @@ Hello and welcome to my GitHub! My name is Mustafa Bayram GÜCEN, I am an Softwa
 
 | Desktop SQL , C# crud and visual NN applications 2019-23
 
-| AI Neural Networks, ML, Fuzzy NN, AI Learning, Sci-kit learn, weka, Matlab AI, Pandas, Numpy, Data visualization, optimization, analysis and prediction known algorithms, such as ANN, KNN, LR, NB, RF, DT, SVM, MLP 2016-2023 continue working on New algorithms  xgboost, GAN 
+| AI Neural Networks, ML, Fuzzy NN, AI Learning, Sci-kit learn, weka, Matlab AI, Pandas, Numpy, Data visualization, optimization, analysis and prediction known algorithms, such as ANN, KNN, LR, NB, RF, DT, SVM, MLP 2016-2023 continue working on New algorithms  xgboost, GAN scientific articles(https://ieeexplore.ieee.org/abstract/document/8932879)
 
 | SQL Queries exams, problem solving and CRUD apps with C# 2014-2023 continue working on new queries and new exam questions 
 
@@ -25,8 +25,8 @@ Hello and welcome to my GitHub! My name is Mustafa Bayram GÜCEN, I am an Softwa
 
 | AWS deployment data processes 2020-2023
 
-| Python nn, ml, sci-kit learn and colab nn algorithms 2016-2023 new functions and new ML, NN algorithms, scientific articles [
-](https://ieeexplore.ieee.org/abstract/document/8932879)
+| Python nn, ml, sci-kit learn and colab nn algorithms 2016-2023 new functions and new ML, NN algorithms, scientific articles 
+
 | Matlab data research, data investigations 2004-2023 Matlab mathematical tool for new developments 
 
 | Power BI data visualizations 2022-2023 continue with responsibilities
