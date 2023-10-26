@@ -25,8 +25,8 @@ Hello and welcome to my GitHub! My name is Mustafa Bayram GÜCEN, I am an Softwa
 
 | AWS deployment data processes 2020-2023
 
-| Python nn, ml, sci-kit learn and colab nn algorithms 2016-2023 new functions and new ML, NN algorithms
-
+| Python nn, ml, sci-kit learn and colab nn algorithms 2016-2023 new functions and new ML, NN algorithms, scientific articles [
+](https://ieeexplore.ieee.org/abstract/document/8932879)
 | Matlab data research, data investigations 2004-2023 Matlab mathematical tool for new developments 
 
 | Power BI data visualizations 2022-2023 continue with responsibilities
@@ -34,6 +34,8 @@ Hello and welcome to my GitHub! My name is Mustafa Bayram GÜCEN, I am an Softwa
 | R data statistics algorithms codes and running of these codes 2016-2020
 
 | SPSS some master and phd thesis statistics results 2013-2017
+
+| Coreldraw printing office jobs and web.
 
 | Adobe Photoshop Photography(canon mark iv, eos r10, RF 800mm F11 IS STM, wildlife photography A7M3, Fujifilm X-T5, 35 mm, 50 mm, 85 mm, Editing and Adobe Premiere Videography, rendering you can use your conferences my editing photo and video with timer(https://www.youtube.com/watch?v=5wLUCLIj5LI) 15 minute timer Coffee break :) (Thank you for your attention)
 
