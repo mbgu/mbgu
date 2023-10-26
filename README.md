@@ -38,7 +38,7 @@ My name is Mustafa Bayram GÜCEN, I am an Software Developer with a strong knowl
 
 | Coreldraw printing office jobs and web.
 
-| $${\color{red}Latex \space \color{lightblue}and \space \color{orange}Markup \space \color{blue} Languages}$$
+|${\color{red}Latex \space \color{lightblue}and \space \color{orange}Markup \space \color{blue} Languages}$
 
 | Adobe Photoshop Photography(canon mark iv, eos r10, RF 800mm F11 IS STM, wildlife photography A7M3, Fujifilm X-T5, 35 mm, 50 mm, 85 mm, Editing and Adobe Premiere Videography, rendering you can use your conferences my editing photo and video with timer(https://www.youtube.com/watch?v=5wLUCLIj5LI) 15 minute timer Coffee break :) (Thank you for your attention)
 
