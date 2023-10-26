@@ -41,7 +41,7 @@ Hello and welcome to my GitHub! My name is Mustafa Bayram GÜCEN, I am an Softwa
 - 🔭 I’m currently working on YTÜ
 - 🌱 I’m currently learning cloud optimizations, xgboost, GAN alghorithms
 - 👯 I’m looking to collaborate on artificial intelligence for health prediction ideas, data, visualization and software development.
-- 🤔 I’m looking for help with health data solutions
+- 🤔 I’m looking for help with health data analyses and NN solutions
 - 💬 Ask me about machine learning, math of neural networks, c#, python, matlab, power BI, asp.net core, azure and cloud solutions.
 - 📫 How to reach me: mbayramgucen@gmail.com
 -->
